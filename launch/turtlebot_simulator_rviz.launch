@@ -9,4 +9,5 @@
 	</node>
 	<node name="coordinate_transform" pkg="coordinate_transform" type="coordinate_transform" output="screen">
 	</node>
+	<include file="$(find rbx1_bringup)/launch/fake_turtlebot.launch" />
 </launch>
