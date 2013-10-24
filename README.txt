@@ -6,4 +6,9 @@ Nodes it will launch:
 Test Ball:
 	color: dark green;
 	radius: 3.5cm
+	H: 70-112
+	S: 26 - 171
+	V: 229 - 86
+	HC_param1: 200
+	HC_param2: 33
 
