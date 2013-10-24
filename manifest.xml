@@ -1,0 +1,20 @@
+<package>
+  <description brief="turtlebot_simulator_rviz">
+
+     turtlebot_simulator_rviz
+
+  </description>
+  <author>penghou</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/turtlebot_simulator_rviz</url>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="uvc_camera"/>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
